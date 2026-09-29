@@ -8,6 +8,10 @@
 "Kodluyoruz | Yazılıma İlk Adım Backend Web Geliştirme" programının Java dersleri kapsamında geliştirdiğim mezuniyet projem, klasik ve popüler bir zeka oyunu olan **Mayın Tarlası'nın (Minesweeper)** Java dilinde bir implementasyonudur. Bu projede, Java'nın temel prensiplerini, nesne yönelimli programlama kavramlarını ve temel veri yapılarını (örneğin 2 boyutlu diziler) kullanarak oyunun mantığını baştan sona kurguladım. Oyun, kullanıcının belirlediği boyutlarda bir mayın tarlası oluşturur, mayınları rastgele yerleştirir ve oyuncunun güvenli kareleri açarak mayınlara basmadan oyunu tamamlamasını hedefler. Bu proje, sadece algoritma geliştirme yeteneğimi değil, aynı zamanda kullanıcı etkileşimini yönetme ve temiz, okunabilir kod yazma becerimi de pekiştirmemi sağlayan kapsamlı bir çalışmadır.
  </p>
 
-<img src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/Java/Proje/Mezuniyet%20Projesi/G%C3%B6rseller/Mezuniyet%20Projesi.png" />
+<img src="https://github.com/StarLordBerke/kodluyoruz-backend/blob/main/Java/Proje/Mezuniyet%20Projesi/G%C3%B6rseller/Mezuniyet%20Projesi.png" />
 
-<img src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/Java/Proje/Mezuniyet%20Projesi/G%C3%B6rseller/Mezuniyet%20Projesi%202.png" />
+<img src="https://github.com/StarLordBerke/kodluyoruz-backend/blob/main/Java/Proje/Mezuniyet%20Projesi/G%C3%B6rseller/Mezuniyet%20Projesi%202.png" />
+
+---
+
+*Geliştirici: Berke Mert Öztürk*
